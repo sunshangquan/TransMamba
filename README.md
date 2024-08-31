@@ -11,11 +11,12 @@
 [![Open Issues](https://img.shields.io/github/issues/sunshangquan/TransMamba)](https://github.com/sunshangquan/TransMamba/issues) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunshangquan%2FTransMamba&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
 
 |  <img src="assets/TransMamba.png" width="385"> |
 |:-------------------------:|
 | Network structure |
+
+</div>
 
 ---
 >**A Hybrid Transformer-Mamba Network for Single Image Deraining**<br>  Shangquan Sun, Wenqi Ren, Juxiang Zhou, Jianhou Gan, Rui Wang, Xiaochun Cao<br> 
