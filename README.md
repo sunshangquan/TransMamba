@@ -30,7 +30,12 @@ Existing deraining Transformers employ self-attention mechanisms with fixed-rang
 ## :mega: Citation
 If you use TransMamba, please consider citing:
 
-    
+    @article{sun2024hybrid,
+      title={A Hybrid Transformer-Mamba Network for Single Image Deraining},
+      author={Sun, Shangquan and Ren, Wenqi and Zhou, Juxiang and Gan, Jianhou and Wang, Rui and Cao, Xiaochun},
+      journal={arXiv preprint arXiv:2409.00410},
+      year={2024}
+    }
 ---
 
 ## :rocket: News
